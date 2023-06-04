@@ -1,0 +1,41 @@
+  TugasBesar.MyForm.resources - Embedded, ContainedInManifestFile, 
+  TugasBesar.Nota.resources - Embedded, ContainedInManifestFile, 
+  TugasBesar.Pengisian.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Tugas Besar, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class TugasBesar.Nota: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox Jumlahbeli : Public
+    System.Windows.Forms.TextBox kembalian : Public
+    System.Windows.Forms.TextBox Jumbayar : Public
+    System.Windows.Forms.TextBox Jumliter : Public
+  Methods:
+    Jumlahbeli_TextChanged(Object, EventArgs): PrivateScope, Public, HideBySig
+Class TugasBesar.Pengisian: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox jumlahbeli_Pengisian : Public
+    System.Windows.Forms.TextBox JumLiter_Pengisian : Public
+    System.Windows.Forms.TextBox kembalian_pengisian : Public
+    System.Windows.Forms.TextBox Jumbayar_pengisian : Public
+  Methods:
+    textBox1_TextChanged_1(Object, EventArgs): PrivateScope, Public, HideBySig
+Class TugasBesar.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

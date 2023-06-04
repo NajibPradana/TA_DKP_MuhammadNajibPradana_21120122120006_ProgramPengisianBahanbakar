@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\MyForm.h(25,11): warning C4101: 'liter_myfrom': unreferenced local variable
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\MyForm.h(26,8): warning C4101: 'kembalian': unreferenced local variable
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\MyForm.h(24,11): warning C4101: 'tksharga': unreferenced local variable
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\MyForm.h(23,15): warning C4101: 'PengisianInstance': unreferenced local variable
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Pengisian.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Tugas Besar.vcxproj -> D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\Tugas Besar.exe

@@ -1,0 +1,6 @@
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\TugasBesar.MyForm.resources
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\TugasBesar.Nota.resources
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\TugasBesar.Pengisian.resources
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\Tugas Besar.vcxproj.GenerateResource.cache
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\Tugas Besar.exe
+D:\Tugas dkp genap\Tugas Besar\Tugas Besar\Debug\Tugas Besar.vcxproj.AssemblyReference.cache
